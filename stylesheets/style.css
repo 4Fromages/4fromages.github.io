@@ -228,3 +228,7 @@ fieldset {
 .active-mode .menuListe {
     display: block !important;
 }
+
+.menuDeroulant {
+    z-index: 1000 !important;
+}
